@@ -1,4 +1,4 @@
-# bio-machinelearning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+# bio-machinelearning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o4fGZThuhf3F4Sqw8HzDkIi79eeiBax6)
 Aim:
 This project was created with aim to train three diferent models(Linear Regretion Model, Artificial Neural Network and a 
 Support Vector Machine) which will predict if someome has skin cancer(Greek: Melanoma). 
